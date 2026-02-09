@@ -1,5 +1,8 @@
 # Cinema Finder Web Application
 
+# Cinema Finder Web Application
+**Duration:** November 2025 – January 2026
+
 ## Overview
 Cinema Finder is a web application that helps users search and discover movies easily. The project focuses on identifying bugs, improving user experience, and implementing feature enhancements.
 
